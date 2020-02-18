@@ -1,4 +1,7 @@
 # **Naive Bayes Classifier coded from scratch (without using Scikit-learn)**
+
+Author: Jorge Salmon
+
 A fundamental part of learning ML is understanding the theory behind every used statistical model. Otherwise, Scikit-learn is nothing but a magical black box to the user. The Naive Bayes algorithm is quite simple and fun to start with. It will be explained and used in the Titanic Survival prediction problem, using Python. 
 
 **Note:** My goal is to show the basics of the algorithm and how I implemented it, so I did not put much effort in feature engineering to obtain the highest score possible.
