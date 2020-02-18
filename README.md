@@ -25,5 +25,5 @@ In our case, the variable y is the class variable (Survival 0 or 1), which repre
 
 Now, you can calculate the values for each probability by looking at the dataset and substitute them into the equation. In our case, the class variable y  has two outcomes: 0 or 1. So the survival probabilities for each case '*Survival*' or '*No survival*' (1 or 0, respectively) needs to be calculated for each passenger. The one having the highest probability is then the final outcome. That is, if  P(1) > P(0), the person will survive.
 
-
+Click here to see the code: https://github.com/Jorge-Salmon/Naive_Bayes_from_scratch/blob/master/Naive%20Bayes%20Classifier.ipynb 
 
